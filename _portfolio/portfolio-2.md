@@ -1,7 +1,7 @@
 ---
 title: Project II
 ---
-# excerpt:
+# Excerpt:
 ## Security Event Case Study
 - Analyzed an infamous security breach event and gave recommendations on what could have been done to prevent it.
 - Used knowledge of standard security protocols, problem-solving, and critical thinking skills.
