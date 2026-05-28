@@ -1,7 +1,7 @@
 ---
 title: Project I
 excerpt:
-[CLICK HERE for My Project](https://canva.link/3g8ssxef49696o8)
+<br/><img scr='/images/\Small_Business_Network.png'>
 ## Small Business Network Redesign
 - Used my knowledge of standard network layout, subnetting, network devices, and network security systems to protect the small business' network from hackers and malware.
 - Learned how a modem works in a network.
