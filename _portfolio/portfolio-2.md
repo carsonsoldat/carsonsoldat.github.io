@@ -8,4 +8,3 @@ title: Project II
 - Learned what Remote Access Trojans are and how to analyze network security both physically and digitally.
 - Improved ability to analyze potential security threats and system weaknesses.
 [CLICK HERE for My Project](https://docs.google.com/document/d/1t6UCD7wH2xsgyuL1gPymWlTzZ6PLbNuuWTvN8iyr-IE/edit?usp=sharing)
-collection: portfolio
