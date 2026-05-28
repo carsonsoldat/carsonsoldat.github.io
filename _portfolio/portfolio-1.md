@@ -7,4 +7,3 @@ title: Project I
 - Learned how a modem works in a network.
 - I solved the challenge of creating a protected network to replace a highly unsafe one, improving my networking skills.
 <br/><img scr='/images/\Small_Business_Network.png'>
-collection: portfolio
