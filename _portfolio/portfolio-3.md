@@ -3,7 +3,9 @@ title: Project III
 ---
 # Excerpt:
 ## Cable Construction
-- Used my knowledge of standard network layout, subnetting, network devices, and network security systems to protect the small business' network from hackers and malware.
-- Learned how a modem works in a network.
-- I solved the challenge of creating a protected network to replace a highly unsafe one, improving my networking skills.
-<br/><img scr='/images/\Small_Business_Network.png'>
+- Attached an RJ45 connector to a Cat6A patch cable
+- Used a crimping tool to cut the cable and a network cable tester to check for basic continuity.
+- Learned the basics of wiring within cables, and that copper cables are used for Ethernet
+- Improved physical networking skills and 
+
+![](/images/Small_Business_Network.png)
