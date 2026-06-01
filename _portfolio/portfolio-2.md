@@ -8,3 +8,4 @@ title: Project II
 - Used knowledge of standard security protocols, problem-solving, and critical thinking skills.
 - Learned what Remote Access Trojans are and how to analyze network security both physically and digitally.
 - Improved ability to analyze potential security threats and system weaknesses.
+
