@@ -8,4 +8,4 @@ title: Project III
 - Learned the basics of wiring within cables, that copper cables are used for Ethernet, and how to patch a broken Ethernet cable.
 - Improved physical networking skills.
 
-![](/images/Small_Business_Network.png)
+![](/images/Cat6A.jpg)
