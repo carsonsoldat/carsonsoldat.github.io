@@ -1,7 +1,6 @@
 ---
 title: Project II
 ---
-[CLICK HERE for My Project](https://docs.google.com/document/d/1t6UCD7wH2xsgyuL1gPymWlTzZ6PLbNuuWTvN8iyr-IE/edit?usp=sharing)
 # Excerpt:
 ## Security Event Case Study
 - Analyzed an infamous security breach event and gave recommendations on what could have been done to prevent it.
