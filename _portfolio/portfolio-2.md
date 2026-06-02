@@ -1,8 +1,9 @@
 ---
 title: Project II
+excerpt: Security Event Case Study
+collection: portfolio
 ---
-# Excerpt:
-## Security Event Case Study
+
 - Analyzed an infamous security breach event and gave recommendations on what could have been done to prevent it.
 - Used knowledge of standard security protocols, problem-solving, and critical thinking skills.
 - Learned what Remote Access Trojans are and how to analyze network security both physically and digitally.
