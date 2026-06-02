@@ -9,4 +9,4 @@ collection: portfolio
 - Learned the basics of wiring within cables, that copper cables are used for Ethernet, and how to patch a broken Ethernet cable.
 - Improved physical networking skills.
 
-![](/images/Cat6A.jpg)
+# ![](/images/Cat6A.jpg)
