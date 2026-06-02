@@ -1,6 +1,6 @@
 ---
-title: Project II
-excerpt: Security Event Case Study
+title: "Project II"
+excerpt: "Security Event Case Study"
 collection: portfolio
 ---
 
