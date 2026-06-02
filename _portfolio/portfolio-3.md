@@ -1,6 +1,6 @@
 ---
-title: Project III
-excerpt: Cable Construction
+title: "Project III"
+excerpt: "Cable Construction"
 collection: portfolio
 ---
 
