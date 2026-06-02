@@ -1,6 +1,6 @@
 ---
-title: Project I
-excerpt: Small Business Network Redesign
+title: "Project I"
+excerpt: "Small Business Network Redesign"
 collection: portfolio
 ---
 
