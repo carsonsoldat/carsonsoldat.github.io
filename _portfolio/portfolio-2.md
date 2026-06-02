@@ -9,6 +9,6 @@ collection: portfolio
 - Learned what Remote Access Trojans are and how to analyze network security both physically and digitally.
 - Improved ability to analyze potential security threats and system weaknesses.
 
-# ![](/images/Doc1.png)
-# ![](/images/Doc2.png)
-# ![](/images/Doc3.png)
+<br/><img src='/images/Doc1.png'>"
+<br/><img src='/images/Doc2.png'>"
+<br/><img src='/images/Doc3.png'>"
