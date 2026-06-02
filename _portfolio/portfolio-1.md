@@ -8,4 +8,4 @@ collection: portfolio
 - Learned how a modem works in a network.
 - I solved the challenge of creating a protected network to replace a highly unsafe one, improving my networking skills.
 
-# ![](/images/Small_Business_Network.png)
+<br/><img src='/images/Small_Business_Network.png'>"
