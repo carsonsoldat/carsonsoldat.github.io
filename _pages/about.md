@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-hello
+I am a student at Richland High School. I am interested in pursuing a career in cybersecurity.
