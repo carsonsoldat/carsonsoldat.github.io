@@ -47,7 +47,7 @@ VOLUNTEER
 EDUCATION
 - 2023 - Present	Richland High School	Richland, WA
 - Anticipated Graduation Date: 2027
-- GPA: 3.91
+- GPA (unweighted): 3.92
 
 EXTRA-CURRICULAR	SPECIAL COURSE
 - National Honor Society, 2026 - Present
@@ -55,3 +55,8 @@ EXTRA-CURRICULAR	SPECIAL COURSE
 - Richland High School Track and Field, 2023 - Present
 - Richland High School German Club, 2022 - 2025
 - Richland High School Basketball, 2024 - 2025
+
+AWARDS
+- Certificate of Academic Excellence x3, 2024 - 26
+- Outstanding CTE Student, 2026
+- Most Improved Player (Basketball), 2025
