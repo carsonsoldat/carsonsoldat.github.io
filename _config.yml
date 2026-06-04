@@ -23,10 +23,8 @@ repository               : "carsonsoldat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Carson Soldat"
+  avatar           : "bomber.png"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Washington State"
   employer         : "Richland High School"
   uri              : # URL
